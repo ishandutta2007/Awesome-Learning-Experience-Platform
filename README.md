@@ -55,9 +55,9 @@ The table below summarizes leading commercial Learning Experience Platforms, ran
 
 ## 💻 Open-Source GitHub Projects
 
-Open-source learning systems provide high extensibility, data ownership, and cost efficiency. Below are top open-source projects sorted by GitHub stars. 🌟
+Open-source learning systems provide high extensibility, data ownership, and cost efficiency. Below are top open-source projects sorted by GitHub_Stars. 🌟
 
-| Repository | GitHub Stars | License | Description & Use Case |
+| Repository | GitHub_Stars | License | Description & Use Case |
 | :--- | :--- | :--- | :--- |
 | **[openedx/edx-platform](https://github.com/openedx/edx-platform)** | [![Stars](https://img.shields.io/github/stars/openedx/edx-platform?style=social&color=white)](https://github.com/openedx/edx-platform/stargazers) | AGPL-3.0 | Large-scale online learning platform powering edX. Highly extensible via XBlocks for university and corporate delivery. |
 | **[moodle/moodle](https://github.com/moodle/moodle)** | [![Stars](https://img.shields.io/github/stars/moodle/moodle?style=social&color=white)](https://github.com/moodle/moodle/stargazers) | GPL-3.0 | World's most popular open-source LMS. Extensible via plugins for LXP-style content curation, badges, and learning pathways. |
@@ -90,7 +90,7 @@ Thank you for exploring this curated list! If you find this repository helpful, 
 
 1. Fork the repository.
 2. Add or update entries in `README.md` using the markdown table formats.
-3. Ensure description, pricing, star badges, and revenue estimates are accurate and factual.
+3. Ensure description, pricing, Stars_Badges, and revenue estimates are accurate and factual.
 4. Submit a Pull Request with a brief summary of additions.
 5. Check out our main curated list compilation at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
 
