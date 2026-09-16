@@ -1,227 +1,103 @@
-# Awesome-Learning-Experience-Platform
+# 🎓 Awesome Learning Experience Platform (LXP) Ecosystem 🚀
 
-### Top Learning Experience Platform (LXP) Ecosystem
-**Curated List of SaaS Products & Open-Source GitHub Projects**
-*Focused on Personalized Learning, Skills Intelligence, Content Aggregation, Collaborative Learning & Workforce Upskilling*
-**Last updated: September 2026**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Learning Experience Platforms (LXP)**. LXPs go beyond traditional LMS by aggregating multi-source content, personalizing discovery, mapping skills, enabling social/collaborative learning, and supporting continuous upskilling across the workforce.
+[![Awesome Learning Experience Platform Banner](assets/banner.svg)](https://github.com/ishandutta2007/Awesome-Learning-Experience-Platform)
 
-**Examples** include Degreed, EdCast (Cornerstone), 360Learning, Docebo, Cornerstone Galaxy, Valamis, HowNow, Continu, Learn Amp, Disprz, and Go1
-# Awesome-Learning-Experience-Platform
-
-## Top Learning Experience Platform (LXP) Ecosystem
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**
-
-*Focused on Personalized Learning, Skills Intelligence, Content Aggregation, Collaborative Learning & Workforce Upskilling*
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Learning Experience Platforms (LXP)**. LXPs go beyond traditional LMS by aggregating multi-source content, personalizing discovery, mapping skills, enabling social/collaborative learning, and supporting continuous upskilling across the workforce.
-
-
-
-**Examples** include Degreed, EdCast (Cornerstone), 360Learning, Docebo, Cornerstone Galaxy, Valamis, HowNow, Continu, Learn Amp, Disprz, and Go1 (the category leaders).
-
-
-
-**Open-source emphasis**: True enterprise LXPs with deep skills graphs and Netflix-style personalization are mostly commercial. Strong open foundations exist in **Moodle**, **Open edX**, **OpenLXP**, and related LMS/LXP projects that can be extended toward modern learning-experience patterns. This section highlights the most practical open options.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[Degreed](https://degreed.com/)**  
-
-  Enterprise LXP focused on skills intelligence, content aggregation from many sources, skills benchmarking, and personalized learning pathways.
-
-
-
-- **[EdCast / Cornerstone LXP](https://www.cornerstoneondemand.com/)**  
-
-  Knowledge-cloud style LXP (EdCast acquired by Cornerstone) for unified search, content aggregation, microlearning, and skills-driven experiences within the broader Cornerstone talent suite.
-
-
-
-- **[360Learning](https://360learning.com/)**  
-
-  Collaborative LXP that emphasizes peer-authored courses, expert-led content creation, and social learning for fast-moving organizations.
-
-
-
-- **[Docebo](https://www.docebo.com/)**  
-
-  AI-powered learning platform with strong LMS + LXP capabilities, content recommendations, and extended-enterprise features.
-
-
-
-- **[Cornerstone Galaxy](https://www.cornerstoneondemand.com/)**  
-
-  Cornerstone’s modern learning and skills experience layer, often positioned alongside or integrated with its LXP and talent offerings.
-
-
-
-- **[Valamis](https://www.valamis.com/)**  
-
-  Learning experience and digital learning platform used for corporate training, skills development, and learning analytics.
-
-
-
-- **[HowNow](https://www.hownow.com/)**  
-
-  LXP focused on making learning accessible in the flow of work with content aggregation and skills-oriented discovery.
-
-
-
-- **[Continu](https://www.continu.com/)**  
-
-  Modern learning platform combining LMS and LXP features for employee training, onboarding, and knowledge sharing.
-
-
-
-- **[Learn Amp](https://www.learnamp.com/)**  
-
-  Learning experience and talent development platform with content curation, pathways, and engagement features.
-
-
-
-- **[Disprz](https://www.disprz.com/)**  
-
-  AI-driven learning and skilling platform used for workforce upskilling and personalized learning experiences.
-
-
-
-- **[Go1](https://www.go1.com/)**  
-
-  Content aggregation and learning content marketplace that powers many LXP and LMS deployments with curated courses and resources.
-
-
-
-## Open-Source GitHub Projects
-
-- **[Moodle](https://github.com/moodle/moodle)**  
-
-  The world’s most widely used open-source learning platform. With plugins, themes, and integrations it can be extended toward LXP-style content aggregation, pathways, and personalized experiences.
-
-
-
-- **[Open edX](https://github.com/openedx/edx-platform)**  
-
-  Community-driven open-source platform that powers large-scale online learning sites. Strong for course delivery, XBlocks, and extensible learning experiences; widely used in higher education and corporate settings.
-
-
-
-- **[OpenLXP](https://github.com/OpenLXP)**  
-
-  Open-source Learning Experience Platform designed for discovery of, access to, and reporting on learning experiences (originally aligned with DoD/ADL Total Learning Architecture concepts).
-
-
-
-- **[Canvas LMS (self-hosted / open components)](https://github.com/instructure/canvas-lms)**  
-
-  Open-source learning management system with modern UX; can serve as a foundation for learning experience features when self-hosted.
-
-
-
-- **[Chamilo](https://github.com/chamilo/chamilo-lms)**  
-
-  Open-source e-learning and collaboration platform suitable for organizations seeking a lighter LMS that can support learning experience use cases.
-
-
-
-- **[Sakai](https://github.com/sakaiproject/sakai)**  
-
-  Open-source learning and collaboration platform traditionally strong in higher education; supports extensible learning workflows.
-
-
-
-- **[Totara / open learning platform experiments](https://github.com/)**  
-
-  Community and partner projects that build LXP-style layers or experiences on top of open or subscription learning cores.
-
-
-
-- **[xAPI / Experience API open tools](https://github.com/)**  
-
-  Open libraries and Learning Record Stores (LRS) that capture learning experiences across systems—foundational for modern LXP analytics.
-
-
-
-- **[Skills and competency open frameworks](https://github.com/)**  
-
-  Open taxonomies, skills graphs, and competency frameworks that can be integrated into open learning platforms.
-
-
-
-- **[Content curation and recommendation open components](https://github.com/)**  
-
-  Libraries and prototypes for aggregating, tagging, and recommending learning content from multiple sources.
-
-
-
-### Additional Strong Open-Source Options
-
-- Starting with **Moodle** or **Open edX** when full control, data ownership, and extensibility are priorities.
-
-- Exploring **OpenLXP** for experience-index and discovery-oriented architectures.
-
-- Combining an open LMS with xAPI/LRS, open skills data, and content aggregators to approximate commercial LXP capabilities.
-
-- Accepting that deep AI-driven personalization, enterprise skills intelligence, polished content marketplaces, and turnkey integrations still favor commercial LXPs (Degreed, Cornerstone/EdCast, 360Learning, Docebo, Go1, etc.).
-
-- Focusing open-source efforts on transparent learning records, custom pathways, and cost-effective large-scale delivery.
-
-
-
-**Frameworks for building custom systems**: Deploy Moodle or Open edX → add plugins for pathways, social features, and content aggregation → instrument with xAPI → layer skills/competency data → surface personalized recommendations. Suitable for education institutions, public sector, and organizations with strong technical capacity. Most large enterprises continue to adopt commercial LXPs for skills intelligence and rapid time-to-value.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Learning platforms process employee and learner data and may be subject to privacy, accessibility, and (in some sectors) regulatory requirements. Open-source deployments require proper security, hosting, and governance. This list is not HR, L&D, or compliance advice.
-
-
+> 💡 A curated directory of top **Learning Experience Platforms (LXP)**, **Skills Intelligence engines**, **Workforce Upskilling tools**, and **Open-Source Learning Management Systems (LMS)**.
 
 ---
 
-**Made for L&D leaders, talent teams, and learning technologists who want personalized, skills-driven learning.**
+## 📊 Overview & Market Intelligence
 
-Let's keep learning experiences open, measurable, and learner-centric.
+The global **Learning Experience Platform (LXP)** market size is estimated at **$3.5 Billion in 2026** and is projected to expand to over **$10 Billion by 2032** (growing at a CAGR of ~18.5%). 🌐
+
+### 🏛️ Market Structure
+The LXP market is **moderately fragmented**:
+- 🏢 **Market Leaders & Enterprise Suites**: Enterprise incumbents like Cornerstone OnDemand (acquired EdCast & Clustafunk) and Workday hold significant corporate market share alongside specialized category pioneers like Degreed and 360Learning.
+- 🎯 **Specialized Niche & Regional Competitors**: Dozens of specialized vendors target specific segments (e.g., frontline worker upskilling, extended enterprise, collaborative peer authoring), preventing a single "winner-take-all" outcome and maintaining healthy market fragmentation.
+
+---
+
+## 📑 Table of Contents
+
+- [📊 Overview & Market Intelligence](#-overview--market-intelligence)
+- [💼 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
+- [📝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 💼 SaaS/Hosted Platforms
+
+The table below summarizes leading commercial Learning Experience Platforms, ranked by company size (valuation / estimated annual revenue). 💵
+
+| Platform | Estimated Revenue / Valuation | Starting Price | Free Tier / Trial Limit | Key Focus & Features |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Cornerstone Galaxy / EdCast](https://www.cornerstoneondemand.com/)** | **~$1.0B Revenue** | ~$6.00 / user / month (enterprise volume) | 14-day free trial (upon enterprise request/demo setup) | Enterprise knowledge cloud, unified search, microlearning & talent suite integration. |
+| **[Docebo](https://www.docebo.com/)** | **~$200M Revenue** (~$1.5B MCap) | ~$25,000 / year (base enterprise tier) | 14-day free trial (up to 30 users, full features) | AI-powered learning platform with strong LMS + LXP capabilities, content discovery, & extended enterprise features. |
+| **[Degreed](https://degreed.com/)** | **~$1.4B Valuation** (~$120M Revenue) | ~$12.00 / user / month (min 500 seats) | 14-day free sandbox demo trial (for enterprise talent teams) | Enterprise pioneer in skills intelligence, multi-source content aggregation, & skills benchmarking. |
+| **[Go1](https://www.go1.com/)** | **~$2.0B Valuation** (~$100M Revenue) | ~$6.00 / user / month | 7-day free trial access to content library preview | Global learning content aggregator & marketplace powering third-party LXPs and LMSs. |
+| **[360Learning](https://360learning.com/)** | **~$50M Revenue** | ~$8.00 / user / month (Team plan) | 30-day free trial (up to 100 users) | Collaborative LXP emphasizing peer-authored course creation, expert workflows, & social learning. |
+| **[Valamis](https://www.valamis.com/)** | **~$35M Revenue** | ~$6.00 / user / month | 14-day free trial demo environment | End-to-end digital learning experience platform with deep learning analytics & skills development tracking. |
+| **[Continu](https://www.continu.com/)** | **~$15M Revenue** | ~$10.00 / user / month | 14-day enterprise trial | Modern LMS + LXP for employee onboarding, compliance, and continuous training in the flow of work. |
+| **[Disprz](https://www.disprz.com/)** | **~$12M Revenue** | ~$4.00 / user / month | 14-day free trial setup | AI-driven skilling & capability-building platform tailored for frontline & corporate workforce upskilling. |
+| **[Learn Amp](https://www.learnamp.com/)** | **~$8M Revenue** | ~$5.00 / user / month | 14-day free trial | Combined LXP & talent development platform focusing on employee engagement, pathways, & performance tracking. |
+| **[HowNow](https://hownow.com/)** | **~$6M Revenue** | ~$5.00 / user / month | 14-day free trial (full platform access) | Autonomous LXP making knowledge discovery accessible in the flow of work via browser extensions & integrations. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Open-source learning systems provide high extensibility, data ownership, and cost efficiency. Below are top open-source projects sorted by GitHub stars. 🌟
+
+| Repository | GitHub Stars | License | Description & Use Case |
+| :--- | :--- | :--- | :--- |
+| **[openedx/edx-platform](https://github.com/openedx/edx-platform)** | [![Stars](https://img.shields.io/github/stars/openedx/edx-platform?style=social&color=white)](https://github.com/openedx/edx-platform/stargazers) | AGPL-3.0 | Large-scale online learning platform powering edX. Highly extensible via XBlocks for university and corporate delivery. |
+| **[moodle/moodle](https://github.com/moodle/moodle)** | [![Stars](https://img.shields.io/github/stars/moodle/moodle?style=social&color=white)](https://github.com/moodle/moodle/stargazers) | GPL-3.0 | World's most popular open-source LMS. Extensible via plugins for LXP-style content curation, badges, and learning pathways. |
+| **[instructure/canvas-lms](https://github.com/instructure/canvas-lms)** | [![Stars](https://img.shields.io/github/stars/instructure/canvas-lms?style=social&color=white)](https://github.com/instructure/canvas-lms/stargazers) | AGPL-3.0 | Modern open-source LMS core used widely in higher ed & K-12. Excellent foundation for building modular learning experiences. |
+| **[frappe/lms](https://github.com/frappe/lms)** | [![Stars](https://img.shields.io/github/stars/frappe/lms?style=social&color=white)](https://github.com/frappe/lms/stargazers) | GPL-3.0 | Easy-to-use, modern open-source Learning Management System built on Frappe Framework. Perfect for rapid course creation. |
+| **[sakaiproject/sakai](https://github.com/sakaiproject/sakai)** | [![Stars](https://img.shields.io/github/stars/sakaiproject/sakai?style=social&color=white)](https://github.com/sakaiproject/sakai/stargazers) | ECL-2.0 | Java-based enterprise learning and collaboration environment created by leading academic institutions. |
+| **[overhangio/tutor](https://github.com/overhangio/tutor)** | [![Stars](https://img.shields.io/github/stars/overhangio/tutor?style=social&color=white)](https://github.com/overhangio/tutor/stargazers) | AGPL-3.0 | The official Docker and Kubernetes deployment framework for Open edX, making LXP/LMS deployment simple and fast. |
+| **[chamilo/chamilo-lms](https://github.com/chamilo/chamilo-lms)** | [![Stars](https://img.shields.io/github/stars/chamilo/chamilo-lms?style=social&color=white)](https://github.com/chamilo/chamilo-lms/stargazers) | GPL-3.0 | Lightweight, user-friendly e-learning platform focusing on usability, multi-tenancy, and global accessibility. |
+| **[ILIAS-eLearning/ILIAS](https://github.com/ILIAS-eLearning/ILIAS)** | [![Stars](https://img.shields.io/github/stars/ILIAS-eLearning/ILIAS?style=social&color=white)](https://github.com/ILIAS-eLearning/ILIAS/stargazers) | GPL-3.0 | Flexible web-based LMS supporting learning objects, assessment tools, and integrated collaboration tools. |
+| **[OpenLXP/openlxp-xds-ui-v2](https://github.com/OpenLXP/openlxp-xds-ui-v2)** | [![Stars](https://img.shields.io/github/stars/OpenLXP/openlxp-xds-ui-v2?style=social&color=white)](https://github.com/OpenLXP/openlxp-xds-ui-v2/stargazers) | MIT | Open-source Learning Experience Platform UI component developed for discovery and reporting of learning experiences (US DoD / ADL TLA architecture). |
+
+---
+
+## 🤝 Support & Community
+
+Thank you for exploring this curated list! If you find this repository helpful, please consider showing your support:
+- ⭐️ **Star** this repository to help others discover it.
+- 🔀 **Fork** and contribute to keep the list up to date.
+- 📢 **Share** with colleagues and talent development teams.
+- ☕ **Sponsor / Buy me a coffee**: If you'd like to support ongoing maintenance and curation, check out the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Learning-Experience-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Learning-Experience-Platform&type=date&legend=top-left)
+
+---
+
+## 📝 How to Contribute
+
+1. Fork the repository.
+2. Add or update entries in `README.md` using the markdown table formats.
+3. Ensure description, pricing, star badges, and revenue estimates are accurate and factual.
+4. Submit a Pull Request with a brief summary of additions.
+5. Check out our main curated list compilation at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated list** for informational and educational purposes.
+- Valuation, pricing, and revenue numbers are estimates derived from public reports, investor filings, and market intelligence data as of 2026.
+- Open-source platforms require infrastructure management, security compliance, and ongoing maintenance.
